@@ -1,0 +1,3 @@
+com.mm.id=MM12445
+com.mm.name=msk
+com.mm.desg=ast
