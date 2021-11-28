@@ -1,3 +1,3 @@
 com.mm.id=MM12445
-com.mm.name=msk
+com.mm.name=msd
 com.mm.desg=ast
