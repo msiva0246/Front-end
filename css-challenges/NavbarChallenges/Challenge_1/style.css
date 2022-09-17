@@ -1,0 +1,25 @@
+a {
+    color : #a7a397;
+    text-decoration: none;
+    padding:15px;
+    margin: 15px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav {
+    position: absolute;
+    top:40%;
+    left: 30%;
+    width: 600px;
+    height: 50px;
+    background-color: #151b1f;
+    border-radius: 10px;
+}
+
+a:nth-child(3) {
+    color: #04f8b7;
+}

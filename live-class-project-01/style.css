@@ -1,0 +1,215 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+   }
+
+ul > li {
+    font-family: 'Orbitron', sans-serif;
+    display: inline;
+}
+
+.navbar-container {
+    position: relative;
+    height: 20vh;
+    top:5%;
+}
+
+nav div img {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+
+.list {
+    list-style: none;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    font-size: large;
+}
+
+.list-item {
+    padding: 20px;
+    margin: 10px;
+}
+
+
+
+.search-icon {
+    position: absolute;
+    top:22%;
+    right: 18%;
+}
+
+.nav-button {
+    position: absolute;
+    font-family: Poppins;
+    font-size: 18px;
+    top: 20%;
+    right: 6%;
+    padding: 3px;
+    width:120px;
+    height: 35  px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+
+
+.hero-container {
+    position: relative;
+    height: 80vh;
+    width: 100vw;
+}
+
+.square {
+    position: absolute;
+    top: 50%;
+    left: 9%;
+}
+
+.star {
+    position: absolute;
+    right:5%;
+    top: 5%;
+}
+
+.globe {
+    position: absolute;
+    left: 55%;
+    top: -5%;
+}
+
+.hero-container > div > img {
+
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 29%;
+}
+
+.hero-container-right {
+    position: absolute;
+    left:45%;
+    top:15%;
+    height: 100%;
+}
+
+.hero-heading {
+    font-family: Orbitron;
+    font-size: 50px;
+    width:100%;
+}
+
+.hero-description {
+    font-family: Poppins;
+    font-size: 12px;
+    text-align: center;   
+    width: 75%;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+}
+
+.button-email {
+    font-family: Orbitron;
+    position: absolute;
+    top:60%;
+    left: 25%;
+    width: 22%;
+    padding:5px;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+
+.button-join {
+    font-family: Orbitron;
+    position: absolute;
+    top:60%;
+    left: 48%;
+    background-color: #000;
+    color: #fff;
+    padding:5px;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+
+.contact-heading {
+    font-family: Poppins;
+    position: absolute;
+    top:70%;
+    left: 30%;
+}
+
+.icons {
+    position: absolute;
+    top:80%;
+    left: 25%;
+}
+
+/* .square {
+    position: absolute;
+    top: 15%;
+    left: 9%;
+}
+
+.globe {
+    position: absolute;
+    left: 55%;
+    top: -30%;
+}
+
+.star {
+    position: absolute;
+    right:8%;
+    top: 5%;
+}
+
+
+.hero-container > div > img {
+
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 29%;
+}
+
+.hero-container-right {
+   float: right;
+}
+
+
+.hero-heading {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    border: 2px solid green;
+    width:50%;
+    
+}
+
+.hero-description {
+    
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+.hero-container-right  div {
+     position: absolute;
+     bottom: 0;
+     left: 40%;
+}
+
+.hero-container-right:nth-child(3) {
+    background-color: yellow;
+    color:blue;
+}
+
+
+.icons {
+    display: inline;
+}
+ */

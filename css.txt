@@ -1,0 +1,377 @@
+Button challenges
+
+1.
+
+/*  https://imagecolorpicker.com/en  */
+
+
+
+.container {
+  position: relative;
+  margin-top: 380px;
+  margin-left: 700px;
+}
+
+a span b {
+   color: #ffffff;
+}
+
+
+.btn {
+  padding: 5px;
+   width: 15px;
+   height: 200px;
+   /*border: 2px solid #7690fc; */
+  background-color: #5daef6;
+}
+
+.badge {
+
+  
+}
+
+
+
+/*
+
+.container {
+  display: flex;
+  height: 300px; 
+}
+
+.btn {
+  width: 100px;  
+  height: 100px; 
+  margin: auto;  
+}
+
+*/
+
+2.
+
+.btn {
+    background-color:  #48480b;
+}
+
+
+3. 
+
+.btn-wrapper {
+    position: relative;
+    top:50%;
+    left:40%;
+}
+
+
+.btn {
+    background-color: #052258;
+    width: 10%;
+    height: 6%;
+    border-radius: 20px;
+}
+
+.btn-text-two {
+    display: none;
+}
+
+span {
+    color: #ffffff;
+}
+
+
+Footer
+
+1.
+/*
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    bottom: 900px;
+}
+
+*/
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 20px; 
+}
+
+.heading {
+    padding-left: 220px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-grow: 3;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+footer {
+    text-align: center;
+}
+
+2.
+
+.content {
+    display: flex;
+    flex-direction: column;
+    /*background-color: #140b5c; */
+    position: fixed;
+    bottom: 0;
+}
+
+.top {
+    display: flex;
+}
+
+.link-boxes {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul > li {
+    /*color: #ffffff;*/
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+ul > li > a{
+    /*color: #ffffff; */
+    
+}
+
+Form
+
+1.
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.form {
+    background-color: #15172b;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    top: 250px;
+    left: 550px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.input {
+    background-color: #303246;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+    position: relative;
+    left: 50px;
+}
+
+.submit {
+    background-color: hsl(203, 100%, 43%);
+    color: #ffffff;
+    position: relative;
+    left: 60px;
+    border-radius: 8px;
+    width: 180px;
+    height: 30px;
+}
+
+
+2.
+
+@import url("https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@600&display=swap");
+
+
+input[value] {
+    background-color: #1d90ff;
+}
+
+input[type="text"].inputbox + span:before{
+    color: #1d90ff;
+  }
+
+
+3.
+
+*{
+    background-color: #5469d4;
+
+    background-color: #556ad4;
+}
+
+Navbar
+
+1.
+
+a {
+    color : #a7a397;
+    text-decoration: none;
+    padding:15px;
+    margin: 15px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav {
+    position: relative;
+    top:350px;
+    left: 500px;
+    width: 600px;
+    height: 50px;
+    background-color: #151b1f;
+    border-radius: 10px;
+}
+
+a:nth-child(3) {
+    color: #04f8b7;
+}
+
+2.
+
+
+
+a {
+    color: #666666;
+
+    /*about */
+    color : #ffc9af;
+
+    /* dropdown */
+    color: #c8c8c8;
+}
+
+ul > li {
+
+    list-style: none;
+}
+
+li > a {
+    position: relative;
+    top: 10px;
+}
+
+3.
+
+body {
+    background-color: #dddddd;
+}
+
+.wrap {
+    background-color: #3d79d0;
+}
+
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:nth-child(2) {
+    color: #ffa500;
+
+}
+
+table 
+
+1.
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+* {
+  font-family: "poppins", "verdana";
+  box-sizing: border-box;
+}
+
+
+/*
+.container {
+  color: #f8ecdd;
+}
+*/
+
+
+h1,h2 {
+  text-align: center;
+}
+
+h3 {
+  padding-left: 350px;
+}
+
+p > input {
+  border-radius: 20px;
+}
+
+.yo {
+  position: relative;
+  left: 350px;
+}
+
+button {
+  width: 340px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #609ea0;
+  color: #000000;
+}
+
+2.
+
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+table {
+    background-color: #7fffd4;
+}
+
+th {
+    color: #e45543;
+}
+
+h1, caption {
+
+    color: #111111;
+}
+
+hr {
+    color: #2c2c2c;
+    border: 1px solid #000000;
+}
+
+caption {
+    position: relative;
+    top:262px;
+    right:2px;
+}
+
+

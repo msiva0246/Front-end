@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;600&family=Ibarra+Real+Nova:wght@600;700&family=Indie+Flower&family=Montserrat&family=Mouse+Memoirs&family=Orbitron:wght@800&family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+
+
+body {
+    padding:0;
+    margin: 0;
+    font-family: 'Montserrat';
+}
+
+#navbarMonstera {
+    height: 15vh;
+}
+
+
+#navFirst {
+    position: absolute;
+    top:5%;
+    left:5%;
+
+}
+
+
+#navMid >*{
+    display: inline-block;
+    vertical-align: middle;
+    padding:20px;
+}
+
+#navMid {
+    position: absolute;
+    left:30%;
+    width: 50%;
+
+}
+
+#navEnd >*{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+#navEnd {
+    position: absolute;
+    right:5%;
+    top:4%;
+
+}
+
+#midWholePart1 {
+    position: absolute;
+    top:35%;
+    left:2%;
+}
+
+
+
+div ul li {
+    padding: 0;
+}
+
+img[id="imgMain"] {
+
+    position: absolute;
+    top:20%;
+    right:1%;
+}

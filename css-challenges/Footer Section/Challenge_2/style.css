@@ -1,0 +1,20 @@
+
+.logo-details {
+    float: left;
+    margin-left:30px;
+}
+
+.media-icons {
+    float:right;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.fab {
+    margin:10px;
+    padding:5px;
+}
+
+.box {
+    float: table-row;
+}

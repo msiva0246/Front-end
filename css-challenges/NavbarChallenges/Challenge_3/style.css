@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@600;700&family=Indie+Flower&family=Mouse+Memoirs&family=Orbitron:wght@800&family=Poppins:wght@600;700&display=swap');
+
+
+body {
+    background-color: #dddddd;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.wrap {
+    background-color: #3d79d0;
+    float: center;
+    width: 800px;
+    padding:10px;
+    margin-left:250px;
+    margin-top: 100px;
+}
+
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding:10px;
+    margin-left:30px;
+}
+
+a:nth-child(2) {
+    color: #ffa500;
+
+}
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+* {
+    font-family: 'Indie Flower', cursive;
+}
+
+
+table {
+    background-color: #7fffd4;
+}
+
+th {
+    color: #e45543;
+}
+
+h1, caption {
+
+    color: #111111;
+}
+
+hr {
+    color: #2c2c2c;
+    border: 1px solid #000000;
+}
+
+caption {
+    position: relative;
+    top: 300px;
+    right:2px;
+}

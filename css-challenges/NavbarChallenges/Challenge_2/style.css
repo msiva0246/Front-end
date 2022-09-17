@@ -1,0 +1,31 @@
+    /*
+    color: #666666;
+
+    about 
+    color : #ffc9af;
+
+     dropdown 
+    color: #c8c8c8; */
+
+
+ul  li {
+    list-style: none;
+    background-color: #666666;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+body > ul > li {
+    float: left;
+    width: 100px; 
+    padding: 15 px;
+    padding-left: 35px;
+
+    border: 5px solid royalblue;
+    
+} 
+
+ul > li:nth-child(3) {
+    background-color: yellow;
+    
+}

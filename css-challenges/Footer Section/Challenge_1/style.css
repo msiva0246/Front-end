@@ -1,0 +1,43 @@
+
+/*
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    bottom: 900px;
+}
+
+*/
+
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.heading {
+    padding-left: 220px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-grow: 3;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+footer {
+    text-align: center;
+}
